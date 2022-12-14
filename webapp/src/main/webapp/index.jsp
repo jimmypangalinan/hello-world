@@ -31,7 +31,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Jimmy Pangalinan </h1>
-
   
+  <h1> Jimmy Pangalinan </h1>  
+  <h1> Jimmy Pangalinan </h1>  
+  <h1> Jimmy Pangalinan </h1>  
+  <h1> Jimmy Pangalinan </h1>  
+
 </form>
